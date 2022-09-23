@@ -2,7 +2,7 @@
 
 int main()
 {
-	int i = 0; // 개발
+	int i = 1; // 1차 수정
 	
 	return 0;
 }
