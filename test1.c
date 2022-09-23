@@ -2,7 +2,7 @@
 
 int main()
 {
-	int i = 1; // 1차 수정
+	int i = 2; // 2차 수정
 	
 	return 0;
 }
