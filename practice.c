@@ -2,7 +2,7 @@
 
 int main()
 {
-	int i = 20;
+	int i = 100; //수정
 	
 	return 0;
 }
